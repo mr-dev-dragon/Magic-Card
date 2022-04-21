@@ -1,2 +1,2 @@
 # Magic-Card
-beartfull card with css
+This is a beautiful, "magic" card using CSS.
